@@ -1,0 +1,9 @@
+.horizontal {
+    display: flex;
+    align-item: center;
+    letter-spacing: 1em;
+}
+
+.crossed{
+    text-decoration: line-through
+}
